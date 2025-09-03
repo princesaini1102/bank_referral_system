@@ -36,6 +36,7 @@ npx prisma generate
 
 # Run application
 npm start
+npm run dev
 ```
 
 ## API Endpoints
